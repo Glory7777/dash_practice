@@ -1,6 +1,5 @@
 # dash_practice
 
-[] ()
 
 [링크 이름 day1](./Day1/)
 
